@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "jooas6ora.aternos.me",
+	"ip":"jooas6ora.aternos.me",
+	"port": "25565",
 	"name": "24/7",
 	"auto-night-skip":"true"
 }
